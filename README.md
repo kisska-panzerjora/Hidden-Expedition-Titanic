@@ -194,4 +194,4 @@ This repository serves as the official landing page for Hidden Expedition: Titan
 **Get the most recent version of Hidden Expedition: Titanic today!**
 
 ---
-**Last updated:** 2026-11-12 22:54:12 UTC
+**Last updated:** 2026-11-13 02:58:50 UTC
